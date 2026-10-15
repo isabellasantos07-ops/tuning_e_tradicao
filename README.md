@@ -31,3 +31,7 @@ Cada venda grava o cupom, os itens e a saída de estoque na mesma transação. S
 - Express
 - MySQL
 - GitHub
+## sitemas usados 
+-figma(prototico) usado para fazer o controle de estoque
+vscode e one compiler 
+back end e front end
